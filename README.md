@@ -1,3 +1,4 @@
 # swadhindev
 this is my first repo
-author - swadhin simran rout
+<br>
+<i>author - swadhin simran rout</i>
